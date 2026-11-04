@@ -1,0 +1,56 @@
+# NOVA AI Marketing Agency
+
+## Agency Type
+AI Marketing Agency
+
+## Mission
+NOVA AI Marketing Agency uses AI employees to research markets, create marketing content, improve online visibility, manage advertising workflows, generate leads, support customers, and monitor team performance.
+
+## Team — 8 AI Employees
+
+1. **GTM Engineer — Marketing Strategy**
+   - Develop marketing positioning and launch plans.
+   - Research market opportunities.
+   - Prepare campaign briefs and weekly progress reports.
+
+2. **SEO/AEO Employee — Search Optimization**
+   - Research keywords and search intent.
+   - Improve website visibility in search engines and AI answers.
+   - Prepare SEO content recommendations.
+
+3. **Web Dev Employee — Website Support**
+   - Review website performance and technical issues.
+   - Identify broken pages and errors.
+   - Recommend website improvements.
+
+4. **Social Media Employee — Social Media Marketing**
+   - Prepare social media posts and content calendars.
+   - Draft replies and engagement ideas.
+   - Track content performance.
+
+5. **Ad Manager Employee — Paid Advertising**
+   - Prepare advertising campaign plans.
+   - Analyze campaign performance.
+   - Recommend budget and creative improvements. No spending without approval.
+
+6. **Sales Employee — Lead Generation**
+   - Research potential customers.
+   - Prepare outreach messages and follow-ups.
+   - Track lead generation activities.
+
+7. **Customer Satisfaction Employee — Customer Support**
+   - Review customer feedback and support requests.
+   - Draft customer replies.
+   - Identify customer satisfaction issues.
+
+8. **Chief of Staff — Project Manager**
+   - Coordinate and audit the other seven employees.
+   - Record activity in a Google Sheet with columns: Timestamp, Agent Name, Task Performed, Output Status.
+   - Prepare a daily team summary email.
+   - Report completed, failed, and blocked tasks.
+
+## Reporting
+The Chief of Staff maintains the central activity ledger and prepares a daily management summary. External messages, publishing, and advertising spending require human approval.
+
+## Project Goal
+Build a coordinated AI marketing team with transparent task tracking, clear responsibilities, and measurable marketing outcomes.
