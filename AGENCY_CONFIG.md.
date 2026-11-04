@@ -1,0 +1,63 @@
+# NOVA AI Marketing Agency Configuration
+
+## Project
+Agency name: NOVA AI Marketing Agency
+Agency type: AI Marketing Agency
+Team size: 8 AI Employees
+
+## Employee Configuration
+
+| Employee | Agency responsibility |
+|---|---|
+| GTM Engineer | Marketing strategy and launch planning |
+| SEO/AEO Employee | SEO, keywords and AI search visibility |
+| Web Dev Employee | Website technical health |
+| Social Media Employee | Social media content and engagement |
+| Ad Manager Employee | Advertising campaign planning and analysis |
+| Sales Employee | Lead research and outreach drafts |
+| Customer Satisfaction Employee | Customer feedback and support drafts |
+| Chief of Staff | Project management, auditing and reporting |
+
+## Chief of Staff Responsibilities
+
+The Chief of Staff coordinates the seven other employees and reviews their run logs.
+
+For each employee task, the central activity ledger must contain:
+
+1. Timestamp
+2. Agent Name
+3. Task Performed
+4. Output Status
+
+Allowed output statuses:
+- Completed
+- Failed
+- Blocked
+- Pending Review
+
+## Daily Reporting
+
+The Chief of Staff prepares a daily summary containing:
+- Tasks completed by each employee
+- Failed or blocked tasks
+- Outputs awaiting human approval
+- Recommended next actions
+
+The daily summary is intended for email delivery.
+
+## Safety Rules
+
+- Do not send emails without human approval.
+- Do not publish social media posts without human approval.
+- Do not spend advertising budget without human approval.
+- Never store passwords or API keys in this repository.
+- Record actual execution results only. Do not report simulated tasks as completed.
+
+## Integration Requirements
+
+- Google Sheets activity ledger
+- Daily email summary
+- Employee run logs
+- Scheduled task execution
+
+Integration status must be marked as pending until the corresponding service is connected and tested.
